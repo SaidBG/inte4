@@ -1,0 +1,58 @@
+/* Vos customisations des classes de Bootstrap */
+
+.jumbotron {
+background: url(../images/hero-image.jpg)no-repeat;
+color:white;
+text-align: center;
+}
+
+
+.wo{
+  font-size: 21px;
+ font-weight: 200;
+
+
+}
+ul {
+float: right!important;
+}
+nav {
+position: fixed!important;
+top: 0;
+width:100%;
+}
+#whow {
+color: red;
+font-family: 'Arvo', courier, serif;
+text-transform: uppercase;
+}
+
+
+
+#get {
+font-family: 'Arvo', courier, serif;
+text-transform: uppercase;
+color:red;
+}
+
+
+
+#who {
+text-align: center;
+}
+#get-involved {
+text-align: center;
+}
+/* Responsive Styling */
+
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
